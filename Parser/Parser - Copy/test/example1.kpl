@@ -1,0 +1,5 @@
+Program Example1; (* Example 1 *)
+VAR  I,A,D,E,F:INTEGER;  
+     N,M,K:CHARR;
+Begin
+End. (* Example 1 *)
