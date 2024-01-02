@@ -1,0 +1,13 @@
+Program Day4;
+Type Vector = Array(.10.) of Integer;
+     Matrix = Array(.20.) of Vector;
+
+Var V: Vector;
+    M: Matrix;
+    A: Array(.10.) of Integer;
+
+Begin
+    V:=A(.1.);
+    V:=M(.5.);
+    M(.6.):=A(.1.);
+End.

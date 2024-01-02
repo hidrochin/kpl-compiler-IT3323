@@ -18,9 +18,9 @@ int readChar(void) {
     lineNo ++;
     colNo = 0;
   }
-  // if(currentChar != EOF){
-  //   printf("%c", currentChar);
-  // }
+  if(currentChar != EOF){
+    printf("%c", currentChar);
+  }
   return currentChar;
 }
 
